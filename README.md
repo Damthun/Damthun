@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Damthun
-- 👀 I’m interested in Python, Chemistry, R, Mathematics,  Data science, and Physics.
+- 👋 Hi, I’m Dametre!
+- 👀 I’m interested in Python, Chemistry, Mathematics,  Data science, and Physics.
 - 🌱 I’m currently learning Linear algebra, RF EE, and a little html/CSS. 
 
 
