@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Damthun
 - 👀 I’m interested in Python, Chemistry, R, Mathematics,  Data science, and Physics.
-- 🌱 I’m currently learning Linear algebra and Rstudio. 
+- 🌱 I’m currently learning Linear algebra, RF EE, and a little html/CSS. 
 
 
 <!---
